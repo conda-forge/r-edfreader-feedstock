@@ -1,11 +1,11 @@
-About r-edfreader
-=================
+About r-edfreader-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-edfreader-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=edfReader
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-edfreader-feedstock/blob/main/LICENSE.txt)
 
 Summary: Reads European Data Format files EDF and EDF+, see <http://www.edfplus.info>, BioSemi
 Data Format files BDF, see <http://www.biosemi.com/faq/file_format.htm>, and BDF+
